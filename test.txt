@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F4A3-05B5
+
+ Directory of C:\Users\Shaifali Singh\Desktop\HelloWorld
+
+07/16/2020  04:59 PM    <DIR>          .
+07/16/2020  04:59 PM    <DIR>          ..
+07/16/2020  04:59 PM               671 Hello.class
+07/13/2020  12:27 PM               147 Hello.java
+07/16/2020  04:59 PM                 0 test.txt
+               3 File(s)            818 bytes
+               2 Dir(s)  38,638,874,624 bytes free
